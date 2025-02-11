@@ -1,1 +1,1 @@
-"# AtaqueFuerzaBruta"  
+Tecnicas de balanceo
